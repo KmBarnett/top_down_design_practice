@@ -1,0 +1,24 @@
+1.Items
+	1.1 get order
+		1.1.1 look at order
+		1.1.2 read order
+	1.2 Grab Inventory
+		1.2.1 look at inventory 
+		1.2.1 read inventory 
+	1.3 compare inventory
+	1.4 go into warehouse
+	1.5 gather Item\s
+2.Pack it
+	2.1 go to boxing area
+		2.1.1 measure items
+		2.1.2 grab appropriate sized box
+		2.1.3 build box
+	2.2 grab bubble wrap
+		2.2.1 measure bubblewrap 
+		2.2.2 place bible wrap in box
+	2.3 grab item
+		2.3.1 bubble wrap items
+		2.3.2 place item\s in box
+			2.3.1.1 heavies to lightest
+3.add postage
+4.drop off in pick up area
