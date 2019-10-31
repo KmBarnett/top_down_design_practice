@@ -1,0 +1,43 @@
+Vehicle(class)
+
+Attributes
+1.Engine_type (string)
+2.Travel_type (string)
+3.max_speed (integer)
+4.Fuel_type (string)
+5.Passanger_max (intager)
+6.seatbelt (booleens)
+7.tire treasure [array]
+8.fuel_capacity
+9. passangers current
+10.current_speed
+
+Method
+1.check_fuel_type
+2.check_fuel_capacity
+3.check_occupancy
+4.check_current_speed
+5. change_curent_speed
+6. check_seatbelt_status
+
+Toyota Tacoma 
+
+Attributes
+1.Engine_type "combustion"
+2.Travel_type "weals"
+3.max_speed "160 mph"
+4.Fuel_type "gasoline"
+5.Passanger_max 5
+6.seatbelt "true"
+7.tire treasure [45, 45, 45, 42]
+8.fuel_capacity 19.9
+9. passangers current 1
+10.current_speed 30
+
+Method
+1.check_fuel_type "gasoline"
+2.check_fuel_capacity "19.9"
+3.check_occupancy 1
+4.check_current_speed 30
+5. accelerate= change_curent_speed  +5 to current speed              
+6. check_seatbelt_status seatbelt light notification from hell
