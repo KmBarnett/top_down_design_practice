@@ -20,5 +20,8 @@
 		2.3.1 bubble wrap items
 		2.3.2 place item\s in box
 			2.3.1.1 heavies to lightest
+	2.4 close box
+		2.4.1 fold in sides 
+		2.4.1 tape sides down
 3.add postage
 4.drop off in pick up area
